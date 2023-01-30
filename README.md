@@ -11,4 +11,4 @@ Web scraping program that displays F1 statistics from the internet on the curren
 
 ## Runnging The Program
 
-File named [main](https://github.com/faizannaseerr/HuffmanCoding/blob/main/main.py) should be downloaded and then ran as usual for any python program (either through an IDE, or through the terminal/CMD from the same directory as where file is downloaded)
+File named [main](https://github.com/faizannaseerr/DriverStatistics/blob/main/main.py) should be downloaded and then ran as usual for any python program (either through an IDE, or through the terminal/CMD from the same directory as where file is downloaded)
